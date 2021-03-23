@@ -22,7 +22,7 @@ class Dog
     @@all.each { |dog| puts dog.name }
   end
 
-  def name 
+  def name
     @name
   end
 
